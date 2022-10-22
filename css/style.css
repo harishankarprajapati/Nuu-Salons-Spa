@@ -28,7 +28,7 @@ a.nav-link.text-dark.font-weight-normal {
     letter-spacing: 0.045em;
     text-transform: uppercase;
 }
-button.btn.sec-menu-btn.my-2.my-sm-0 {
+a.btn.sec-menu-btn.my-2.my-sm-0 {
     color: #fff !important;
     font-family: 'Cerebri Sans';
     font-style: normal;
@@ -38,7 +38,7 @@ button.btn.sec-menu-btn.my-2.my-sm-0 {
     text-transform: uppercase;
     border: 2px solid #fff !important;
 }
-button.btn.sec-menu-btn.my-2.my-sm-0:hover {
+a.btn.sec-menu-btn.my-2.my-sm-0:hover {
     color: #000 !important;
     background-color: #fff !important;
    
@@ -278,7 +278,9 @@ span#basic-text1 {
     font-size: 25px;
     float: right;
 }
-
+.reviews{
+    color:#feac32 ;
+}
 
 
 
@@ -558,7 +560,7 @@ button.slick-next.slick-arrow {
 }
 
 
-.reviews  {
+.button.btn.sec-menu-btn.my-2.my-sm-0  {
     color: #f9d71c !important;
 }
 
