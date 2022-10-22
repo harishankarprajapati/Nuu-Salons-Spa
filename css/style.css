@@ -281,7 +281,9 @@ span#basic-text1 {
 .reviews{
     color:#feac32 ;
 }
-
+.sec-min{
+    min-height: 500px;
+}
 
 
 
